@@ -1,0 +1,6 @@
+path=C:\Rapor\ARSIV\
+distribution_list(mails)=fikret.safak@kontrolmatik.com,fsafak24@gmail.com
+distribution_time=09:44
+read_time=0
+OPC_Name=Matrikon.OPC.Simulation.1
+Tags=Saat,Random.Boolean,Random.Int4,Random.Int2,Bucket Brigade.Int1,Bucket Brigade.UInt1
