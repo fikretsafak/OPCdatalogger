@@ -1,4 +1,3 @@
-#Description
 This project is still under development. Therefore, there may be some shortcomings.
 The desired signals are received from the server broadcastinf OPC DA and recorded.
 With the config.txt filei adjustments can be made within the program.:e2e
