@@ -11,9 +11,3 @@ Installation
   3- MatrikonOPC Server
 
 
-
-# e2e tests
-$ npm run test:e2e
-
-# test coverage
-$ npm run test:cov
